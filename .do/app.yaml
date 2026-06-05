@@ -4,7 +4,7 @@ static_sites:
   - name: nimesh-website
     github:
       repo: gtmbuddha2/Website
-      branch: main
+      branch: master
       deploy_on_push: true
     # Plain HTML — no build step needed.
     source_dir: /
