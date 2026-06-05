@@ -1,0 +1,13 @@
+name: nimesh-website
+region: nyc
+static_sites:
+  - name: nimesh-website
+    github:
+      repo: gtmbuddha2/Website
+      branch: main
+      deploy_on_push: true
+    # Plain HTML — no build step needed.
+    source_dir: /
+    output_dir: /
+    index_document: index.html
+    catchall_document: index.html

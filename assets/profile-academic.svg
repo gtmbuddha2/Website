@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3efe6"></stop>
+      <stop offset="1" stop-color="#e7e0d2"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#bg)"></rect>
+  <g fill="none" stroke="#c8bfa9" stroke-width="1">
+    <rect x="14" y="14" width="452" height="572"></rect>
+  </g>
+  <g fill="#23395d" opacity="0.92">
+    <circle cx="240" cy="232" r="92"></circle>
+    <path d="M70 560 C 74 430, 140 372, 240 372 C 340 372, 406 430, 410 560 Z"></path>
+  </g>
+  <text x="240" y="262" text-anchor="middle" fill="#f3efe6" font-family="Georgia, serif" font-size="84" font-weight="600" font-style="italic">NG</text>
+  <g fill="#8a8266" font-family="Georgia, serif" font-size="15" font-style="italic">
+    <text x="240" y="600" text-anchor="middle" dy="-22">drop your headshot at assets/profile.jpeg</text>
+  </g>
+</svg>
